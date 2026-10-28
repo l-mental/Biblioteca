@@ -1,0 +1,6 @@
+{
+  "name": "BiblioPlus POS - Sistema de Librería y Papelería",
+  "description": "Sistema punto de venta (POS) e inventario inteligente especializado para librerías, textos, papelería y servicios escolares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
